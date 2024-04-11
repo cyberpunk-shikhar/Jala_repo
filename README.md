@@ -1,2 +1,2 @@
-# Jala_repo
+# Jala_Academy_Assignments
 Python_language
